@@ -27,7 +27,7 @@ WEB application enabling CRUD operations on the table containing countries.
 
 ## Autor
 
-Mateusz Nolko
+Mateusz
 
 ## Bibliography
 
